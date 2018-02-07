@@ -4,7 +4,9 @@
 
 ## Description
 
-A syntax for guitar tabulatures in plain text format. Syntax file is taken from [tab.vim](http://www.vim.org/scripts/script.php?script_id=537) script.
+A syntax for guitar tabulatures in [ASCII tab][asciitab] format.
+
+Note: Syntax file is taken from [tab.vim](http://www.vim.org/scripts/script.php?script_id=537) script.
 
 
 ## Installation
@@ -22,5 +24,6 @@ Add this to your `~/.vimrc`
   Plug 'onjin/vim-guitar-tab-syntax'
 ```
 
+[asciitab]: https://en.wikipedia.org/wiki/ASCII_tab
 [plug]: https://github.com/junegunn/vim-plug
 [pathogen]: https://github.com/tpope/vim-pathogen
